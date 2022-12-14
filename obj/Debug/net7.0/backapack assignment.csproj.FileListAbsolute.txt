@@ -1,0 +1,15 @@
+F:\c#\backapack assignment\obj\Debug\net7.0\backapack assignment.csproj.AssemblyReference.cache
+F:\c#\backapack assignment\obj\Debug\net7.0\backapack assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\backapack assignment\obj\Debug\net7.0\backapack assignment.AssemblyInfoInputs.cache
+F:\c#\backapack assignment\obj\Debug\net7.0\backapack assignment.AssemblyInfo.cs
+F:\c#\backapack assignment\obj\Debug\net7.0\backapack assignment.csproj.CoreCompileInputs.cache
+F:\c#\backapack assignment\bin\Debug\net7.0\backapack assignment.exe
+F:\c#\backapack assignment\bin\Debug\net7.0\backapack assignment.deps.json
+F:\c#\backapack assignment\bin\Debug\net7.0\backapack assignment.runtimeconfig.json
+F:\c#\backapack assignment\bin\Debug\net7.0\backapack assignment.dll
+F:\c#\backapack assignment\bin\Debug\net7.0\backapack assignment.pdb
+F:\c#\backapack assignment\obj\Debug\net7.0\backapack assignment.dll
+F:\c#\backapack assignment\obj\Debug\net7.0\refint\backapack assignment.dll
+F:\c#\backapack assignment\obj\Debug\net7.0\backapack assignment.pdb
+F:\c#\backapack assignment\obj\Debug\net7.0\backapack assignment.genruntimeconfig.cache
+F:\c#\backapack assignment\obj\Debug\net7.0\ref\backapack assignment.dll
